@@ -1,14 +1,3 @@
 
 User-agent: *
 Disallow:
-Allow: /*.jpg$
-Allow: /*.png$
-Allow: /*.webp$
-Allow: /*.css$
-Allow: /*.js$
-Allow: /*.mp4$
-Allow: /*.webm$
-Allow: /*.svg$
-Allow: /wp-content/uploads/
-
-Sitemap: https://casinovodka.xyz/sitemap.xml
